@@ -1,0 +1,35 @@
+td{
+	
+	border:2px solid black;
+		
+}
+
+#black{
+	empty-cells: 0;
+	
+	
+	background-color: black;
+
+}
+
+#white{
+	background-color: white;
+
+}
+.board{
+	width:800px;
+	height: 640px;	
+	border:1px solid black;
+	margin: 0px auto;
+}
+/*
+margin: 0px auto; it is used align the table
+style="letter-spacing: 3em;"
+*/
+h2{
+	text-decoration: red;
+	margin: 0px auto;
+	background-color: grey;
+	text-align: center;
+	outline-color: grey;
+}
